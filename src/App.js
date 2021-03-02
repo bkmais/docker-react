@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the end of the line amigo!!!!
+          This is the end of the line amigo! Branch Merged..
         </p>
         <a
           className="App-link"
